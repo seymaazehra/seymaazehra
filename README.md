@@ -1,5 +1,5 @@
 ### Hi there I'm Zehra👋
-🌱 I’m currently working on ERP systems
+🌱 I’m currently working on JavaScript, C#, HTML, CSS...
 
 <!--
 **seymaazehra/seymaazehra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
