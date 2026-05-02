@@ -1,5 +1,5 @@
 ### Hi there I'm Zehra👋
-🌱 I’m currently working with JavaScript, C#, ASP.NET Core, and .NET technologies...
+🌱 I’m currently working with JavaScript, HTML, CSS, C#, ASP.NET Core, and .NET technologies...
 
 <!--
 **seymaazehra/seymaazehra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
